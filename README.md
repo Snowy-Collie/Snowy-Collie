@@ -24,12 +24,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Snowy-Collie"><img src="https://github-readme-stats.vercel.app/api?username=Snowy_Collie" alt="yuna0x0's github stats"></a>
+  <a href="https://github.com/Snowy-Collie"><img src="https://github-readme-stats.vercel.app/api?username=Snowy-Collie" alt="yuna0x0's github stats"></a>
 </p>
 
 
 <!--
-**Snowy-Collie/Snowy_Collie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Snowy-Collie/Snowy-Collie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
