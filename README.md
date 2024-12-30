@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm <a href="https://snowycollie.acsstudio.site/">Snowy Collie</a>!</h1>
 <p align="center">
   <a href="https://snowycollie.acsstudio.site/">
-    <img src="https://snowycollie.acsstudio.site/avatar.png" alt="Snowy Collie">
+    <img src="https://snowycollie.acsstudio.site/avatar.png" alt="Snowy Collie" style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #ffcc00;">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
