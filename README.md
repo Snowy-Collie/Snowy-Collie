@@ -1,1 +1,1 @@
-![Instagram](https://img.shields.io/badge/Instagram-@snowy_collie-E4405F?style=social&logo=instagram)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snowy-Collie)
