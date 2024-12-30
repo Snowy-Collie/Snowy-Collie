@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://snowycollie.acsstudio.site/">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+    <img src="bg.webp" alt="Banner">
   </a>
 </p>
 
@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Snowy-Collie"><img src="https://github-readme-stats.vercel.app/api?username=Snowy_Collie&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+  <a href="https://github.com/Snowy-Collie"><img src="https://github-readme-stats.vercel.app/api?username=Snowy_Collie" alt="yuna0x0's github stats"></a>
 </p>
+
 
 <!--
 **Snowy-Collie/Snowy_Collie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
