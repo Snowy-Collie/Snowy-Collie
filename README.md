@@ -27,8 +27,7 @@
   <a href="https://github.com/Snowy-Collie"><img src="https://github-readme-stats.vercel.app/api?username=Snowy-Collie" alt="yuna0x0's github stats"></a>
 </p>
 
-![osu! signature card](/card?user=Snowy-Collie&mode=std&lang=en&animation=true&skills=true)
-
+[![osu! signature card](/card?user=Snowy-Collie&mode=std&lang=en&animation=true&skills=true)](https://osu.ppy.sh/u/Snowy-Collie)
 <!--
 **Snowy-Collie/Snowy-Collie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
