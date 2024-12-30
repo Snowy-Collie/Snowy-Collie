@@ -1,1 +1,1 @@
-[![osu! signature card](/card?user=Snowy-Collie&mode=std&animation=true&hue=200&skills=true)](https://osu.ppy.sh/u/Snowy-Collie)
+![Instagram](https://img.shields.io/badge/Instagram-@snowy_collie-E4405F?style=social&logo=instagram)
